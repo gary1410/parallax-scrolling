@@ -1,4 +1,4 @@
-This is my notes and tutorial for understanding how parallax-scrolling works. 
+#These are my notes and tutorial for understanding how parallax-scrolling works.#
 
 ###Parrallax###
 
