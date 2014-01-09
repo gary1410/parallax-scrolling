@@ -1,3 +1,5 @@
+This is my notes and tutorial for understanding how parallax-scrolling works. 
+
 ###Parrallax###
 
 Below is how you make the background stationary while having the ability to scroll.
